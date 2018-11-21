@@ -8,42 +8,42 @@ L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
 }).addTo(mymap);
 
 var poolIcon = L.icon({
-    iconUrl: 'assets/img/swimming-pool.png',
+    iconUrl: 'img/swimming-pool.png',
     iconSize:     [32, 32], // size of the icon
     iconAnchor:   [16, 16], // point of the icon which will correspond to marker's location
     popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
 });
 
 var manIcon = L.icon({
-    iconUrl: 'assets/img/running-man.png',
+    iconUrl: 'img/running-man.png',
     iconSize:     [32, 32], // size of the icon
     iconAnchor:   [16, 16], // point of the icon which will correspond to marker's location
     popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
 });
 
 var soccerIcon = L.icon({
-    iconUrl: 'assets/img/soccer.png',
+    iconUrl: 'img/soccer.png',
     iconSize:     [32, 32], // size of the icon
     iconAnchor:   [16, 16], // point of the icon which will correspond to marker's location
     popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
 });
 
 var baseballIcon = L.icon({
-    iconUrl: 'assets/img/baseball.png',
+    iconUrl: 'img/baseball.png',
     iconSize:     [32, 32], // size of the icon
     iconAnchor:   [16, 16], // point of the icon which will correspond to marker's location
     popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
 });
 
 var skaterIcon = L.icon({
-    iconUrl: 'assets/img/skater.png',
+    iconUrl: 'img/skater.png',
     iconSize:     [32, 32], // size of the icon
     iconAnchor:   [16, 16], // point of the icon which will correspond to marker's location
     popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
 });
 
 var swimIcon = L.icon({
-    iconUrl: 'assets/img/swimming-figure.png',
+    iconUrl: 'img/swimming-figure.png',
     iconSize:     [32, 32], // size of the icon
     iconAnchor:   [16, 16], // point of the icon which will correspond to marker's location
     popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor

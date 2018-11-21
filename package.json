@@ -1,0 +1,23 @@
+{
+  "name": "datathon",
+  "version": "1.0.0",
+  "description": "PIMS Calgary datathon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breeves997/yyc-pims-datathon.git"
+  },
+  "author": "Ben Reeves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/breeves997/yyc-pims-datathon/issues"
+  },
+  "homepage": "https://github.com/breeves997/yyc-pims-datathon#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
